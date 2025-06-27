@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/kTQvLDjDWhgAAAAC/neymar-messi.gif" width="250px"/>
-  <img src="https://media.tenor.com/RP0T_iW_0DwAAAAd/messi-goat.gif" width="250px"/>
-  <img src="https://media.tenor.com/DG7mtrENmkMAAAAd/cristiano-ronaldo-cr7.gif" width="250px"/>
+  <img src="https://tenor.com/view/neymar-jr-gif-10880181974660410811" width="250px"/>
+  <img src="https://tenor.com/view/regele-fotbalului-regele-regelemeulafotbal-regelemeulafootball-sefuluiyzsem-gif-25766031" width="250px"/>
+  <img src="https://tenor.com/view/football-gif-25905866" width="250px"/>
 </p>
 
 ---
@@ -54,22 +54,10 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milangt&show_icons=true&theme=tokyonight" alt="milangt stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milangt&theme=tokyonight" alt="streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milangt&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
----
-
 ## 📣 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/milan-g-thomas-a56757247/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milangthomas6857@gmail.com)
 
 ---
 
