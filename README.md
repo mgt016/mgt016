@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/neymar-jr-gif-10880181974660410811" width="250px"/>
-  <img src="https://tenor.com/view/regele-fotbalului-regele-regelemeulafotbal-regelemeulafootball-sefuluiyzsem-gif-25766031" width="250px"/>
-  <img src="https://tenor.com/view/football-gif-25905866" width="250px"/>
+  <img src="https://media.tenor.com/ucV8lyWvDoIAAAAC/neymar-skill.gif" width="250px" />
+  <img src="https://media.tenor.com/RP0T_iW_0DwAAAAd/messi-goat.gif" width="250px" />
+  <img src="https://media.tenor.com/DG7mtrENmkMAAAAd/cristiano-ronaldo-cr7.gif" width="250px" />
 </p>
 
 ---
